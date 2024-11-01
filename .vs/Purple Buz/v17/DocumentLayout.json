@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\visual stidio\\Purple Buz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28C167D1-A291-4E43-A0F6-01F8672BDED1}|Purple Buz\\Purple Buz.csproj|c:\\users\\hp\\desktop\\visual stidio\\purple buz\\purple buz\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C167D1-A291-4E43-A0F6-01F8672BDED1}|Purple Buz\\Purple Buz.csproj|solutionrelative:purple buz\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C167D1-A291-4E43-A0F6-01F8672BDED1}|Purple Buz\\Purple Buz.csproj|c:\\users\\hp\\desktop\\visual stidio\\purple buz\\purple buz\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28C167D1-A291-4E43-A0F6-01F8672BDED1}|Purple Buz\\Purple Buz.csproj|solutionrelative:purple buz\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C167D1-A291-4E43-A0F6-01F8672BDED1}|Purple Buz\\Purple Buz.csproj|c:\\users\\hp\\desktop\\visual stidio\\purple buz\\purple buz\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C167D1-A291-4E43-A0F6-01F8672BDED1}|Purple Buz\\Purple Buz.csproj|solutionrelative:purple buz\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C167D1-A291-4E43-A0F6-01F8672BDED1}|Purple Buz\\Purple Buz.csproj|c:\\users\\hp\\desktop\\visual stidio\\purple buz\\purple buz\\entities\\aboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C167D1-A291-4E43-A0F6-01F8672BDED1}|Purple Buz\\Purple Buz.csproj|solutionrelative:purple buz\\entities\\aboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C167D1-A291-4E43-A0F6-01F8672BDED1}|Purple Buz\\Purple Buz.csproj|c:\\users\\hp\\desktop\\visual stidio\\purple buz\\purple buz\\models\\about\\aboutindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C167D1-A291-4E43-A0F6-01F8672BDED1}|Purple Buz\\Purple Buz.csproj|solutionrelative:purple buz\\models\\about\\aboutindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C167D1-A291-4E43-A0F6-01F8672BDED1}|Purple Buz\\Purple Buz.csproj|c:\\users\\hp\\desktop\\visual stidio\\purple buz\\purple buz\\models\\about\\aboutservicevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C167D1-A291-4E43-A0F6-01F8672BDED1}|Purple Buz\\Purple Buz.csproj|solutionrelative:purple buz\\models\\about\\aboutservicevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Purple Buz\\Purple Buz\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "Purple Buz\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Purple Buz\\Purple Buz\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "Purple Buz\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T17:13:45.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Purple Buz\\Purple Buz\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Purple Buz\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Purple Buz\\Purple Buz\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Purple Buz\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:09:13.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Purple Buz\\Purple Buz\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Purple Buz\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Purple Buz\\Purple Buz\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Purple Buz\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:57:59.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Purple Buz\\Purple Buz\\Entities\\AboutService.cs",
+              "RelativeDocumentMoniker": "Purple Buz\\Entities\\AboutService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Purple Buz\\Purple Buz\\Entities\\AboutService.cs",
+              "RelativeToolTip": "Purple Buz\\Entities\\AboutService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:57:31.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Purple Buz\\Purple Buz\\Models\\About\\AboutIndexVM.cs",
+              "RelativeDocumentMoniker": "Purple Buz\\Models\\About\\AboutIndexVM.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Purple Buz\\Purple Buz\\Models\\About\\AboutIndexVM.cs",
+              "RelativeToolTip": "Purple Buz\\Models\\About\\AboutIndexVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:56:40.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutServiceVM.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Purple Buz\\Purple Buz\\Models\\About\\AboutServiceVM.cs",
+              "RelativeDocumentMoniker": "Purple Buz\\Models\\About\\AboutServiceVM.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Purple Buz\\Purple Buz\\Models\\About\\AboutServiceVM.cs",
+              "RelativeToolTip": "Purple Buz\\Models\\About\\AboutServiceVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:56:25.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
